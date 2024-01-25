@@ -1,7 +1,0 @@
-langkah dalam instalasi SO linux 
-pertama buka Vbox misal dengan akun alma linux
-![alt text]("C:\Users\user\Downloads\so alma.jpg"?raw=true)
-selanjutnya klik menu setting dan sesuaikan dengan spesifikasi laptop masing masing
-![alt text]("C:\Users\user\Downloads\alma 2jpg.jpg"?raw=true)
-setelah itu klik start maka vbox akan melakukan instalasi setelah intalasi maka kita tinggal login dengan akun yang telah kita buat tadi 
-![alt text]("C:\Users\user\Downloads\alma 3.jpg"?raw=true)
